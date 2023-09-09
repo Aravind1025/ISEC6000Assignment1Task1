@@ -86,6 +86,13 @@ Saleor is an open-source e-commerce platform built using Django, GraphQL, and Re
 <div>2.	tar zxvf trivy_0.20.0_Linux-64bit.tar.gz</div>
 <div>3. sudo mv trivy /usr/local/bin/</div>
 
+<div>
+  <h2>To Scan the Vulnerability of TRIVY</h2>
+</div>
+Syntax: trivy image {image Name} 
+
+
+
 
 
 
