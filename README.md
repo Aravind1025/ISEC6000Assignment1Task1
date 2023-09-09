@@ -40,7 +40,7 @@ gcloud config set compute/zone us-central1-c
 
 1.	Create a new Repository and name it as “ISEC6000Assignment1Task1”.
 2.	Set the Repository as public and select the checkbox with add a README file option.
-3. A repository is created as shown in Fig 1.2.3
+3. A repository is created.
 4.	The Repository can be accessed through the below link. 
  https://github.com/Aravind1025/ISEC6000Assignment1Task1
 
