@@ -72,6 +72,22 @@ Saleor is an open-source e-commerce platform built using Django, GraphQL, and Re
       <div>React-StoreFront accessible at https://localhost:3009</div>
       <div>Saleor Dashboard accessible at https://localhost:9003</div>
 
+<div>
+  <h2>TRIVY</h2>
+</div>
+
+<div>Trivy is an open-source vulnerability scanner. It is reliable, fast and extremely easy to use. Trivy has different scanners that look for different security issues, and different targets where it can find those issues.</div>
+
+<div>
+  <h2>Steps to Install Trivy</h2>
+</div>
+
+<div>1.	wget https://github.com/aquasecurity/trivy/releases/download/v0.20.0/trivy_0.20.0_Linux-64bit.tar.gz</div>
+<div>2.	tar zxvf trivy_0.20.0_Linux-64bit.tar.gz</div>
+<div>3. sudo mv trivy /usr/local/bin/</div>
+
+
+
 
 
 
