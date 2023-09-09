@@ -87,8 +87,8 @@ gcloud config set compute/zone us-central1-c
       ~  docker compose up
 ```
 10. Once the containers are created, we can access the Saelor Store-front UI in our local environment.
-      ~  React-StoreFront accessible at https://localhost:3009
-      ~  Saleor Dashboard accessible at https://localhost:9003
+       React-StoreFront accessible at https://localhost:3009
+       Saleor Dashboard accessible at https://localhost:9003
 
 
   <h2>Trivy</h2>
