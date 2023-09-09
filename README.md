@@ -63,7 +63,7 @@ gcloud config set compute/zone us-central1-c
 3. Commit the changes in the Git Repository.</div>
 4. To clone the Git Repository:
 ```docker
-  git clone https://github.com/Aravind1025/saleor-platform-Assignment1Task2.git
+      ~  git clone https://github.com/Aravind1025/saleor-platform-Assignment1Task2.git
 ```
 5. To go into the Repository:
 ```docker
