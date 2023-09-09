@@ -28,7 +28,7 @@
 <div>4.	Set the project with the project ID and configure the zone using the following commands:</div>
 <div align="center">-gcloud config set project isec6000-397505</div>
 <div align="center">-gcloud config set compute/zone us-central1-c</div>
-
+<blockquote>
 <div>
   <h2>How to Create Git Repository</h2>
 </div>
@@ -38,7 +38,7 @@
 <div>3. A repository is created as shown in Fig 1.2.3</div>
 <div>4.	The Repository can be accessed through the below link. </div>
       <span style="margin-left: 20px;">-https://github.com/Aravind1025/ISEC6000Assignment1Task1</span>
-
+</blockquote>
 <div>
   <h2>How to Fork Saelor Platform in Git Repository</h2>
 </div>
