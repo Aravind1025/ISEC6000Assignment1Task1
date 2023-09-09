@@ -19,12 +19,12 @@ Saleor is an open-source e-commerce platform built using Django, GraphQL, and Re
 <div>6.	Configure the default Kubernetes version and node pool with 3 nodes.</div>
 
 <div>
-  <h2>INSTALL AND CONFIGURE KUBERNETES</h2>
+  <h2>How to INSTALL AND CONFIGURE KUBERNETES</h2>
 </div>
 
 <div>1.	The Cluster isec6000-cluster-1 is created as shown in Fig 1.2.1</div>
 <div>2.	Connect the Kubernetes Cluster to the local environment.</div>
-<div>3.	Select Activate cloud shell to open the shell terminal.</div>
+<div>3.	Select Activate Cloud shell to open the shell terminal.</div>
 <div>4.	Set the project with the project ID and configure the zone using the following commands:</div>
 <div align="center">-gcloud config set project isec6000-397505</div>
 <div align="center">-gcloud config set compute/zone us-central1-c</div>
@@ -35,7 +35,10 @@ Saleor is an open-source e-commerce platform built using Django, GraphQL, and Re
 
 <div>1.	Create a new Repository and name it as “ISEC6000Assignment1Task1”.</div>
 <div>2.	Set the Repository as public and select the checkbox with add a README file option.</div>
-<div>3.	Repository is created as shown in Fig 1.2.3</div>
+<div>3.	A repository is created as shown in Fig 1.2.3</div>
 <div>4.	The Repository can be accessed through the below link. </div>
 https://github.com/Aravind1025/ISEC6000Assignment1Task1
 
+<div>
+  <h2>INSTALL AND CONFIGURE KUBERNETES</h2>
+</div>
