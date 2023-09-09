@@ -12,12 +12,12 @@
   <h2>How to Create a Kubernetes Cluster on GKE</h2>
 </div>
 
-1.	Login into your Google Cloud Account.</div>
-2.	Create a new Project and name it as “ISEC6000”.</div>
-3.	In the ISEC6000 project, Click Kubernetes Engine  Cluster  Enable the Api  Create.</div>
-4.	Select and configure under the Standard cluster mode.</div>
-5.	Configure a cluster with the name isec6000-cluster-1-assignment1 and set the zone as us-central1-c under the zonal location type.</div>
-6.	Configure the default Kubernetes version and node pool with 3 nodes.</div>
+1.	Login into your Google Cloud Account.
+2.	Create a new Project and name it as “ISEC6000”.
+3.	In the ISEC6000 project, Click Kubernetes Engine  Cluster  Enable the Api  Create.
+4.	Select and configure under the Standard cluster mode.
+5.	Configure a cluster with the name isec6000-cluster-1-assignment1 and set the zone as us-central1-c under the zonal location type.
+6.	Configure the default Kubernetes version and node pool with 3 nodes.
 
 
   <h2>How to Install and Configure Kubernetes</h2>
@@ -48,11 +48,11 @@ gcloud config set compute/zone us-central1-c
   <h2>How to Fork Saelor Platform in Git Repository</h2>
 </div>
 
-1.	Using the below link, fork the Saelor Platform from Git</div>    
-     ~  https://github.com/saleor/saleor-platform</div>
-2. Rename it as “saleor-platform-Assignment1Task2”.</div>
-3. New Repo can be accessed through the link</div>
-      ~  https://github.com/Aravind1025/saleor-platform-Assignment1Task2.git</div>
+1.	Using the below link, fork the Saelor Platform from Git  
+     ~  https://github.com/saleor/saleor-platform
+2. Rename it as “saleor-platform-Assignment1Task2”.
+3. New Repo can be accessed through the link
+    ~  https://github.com/Aravind1025/saleor-platform-Assignment1Task2.git
 
 
   <h2>How to Assign the Container Ports</h2>
