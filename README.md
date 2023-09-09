@@ -14,7 +14,7 @@
 
 1.	Login into your Google Cloud Account.
 2.	Create a new Project and name it as “ISEC6000”.
-3.	In the ISEC6000 project, Click Kubernetes Engine  Cluster  Enable the Api  Create.
+3.	In the ISEC6000 project, Click Kubernetes Engine -> Cluster -> Enable the Api -> Create.
 4.	Select and configure under the Standard cluster mode.
 5.	Configure a cluster with the name isec6000-cluster-1-assignment1 and set the zone as us-central1-c under the zonal location type.
 6.	Configure the default Kubernetes version and node pool with 3 nodes.
@@ -46,7 +46,7 @@ gcloud config set compute/zone us-central1-c
 
 
   <h2>How to Fork Saelor Platform in Git Repository</h2>
-</div>
+
 
 1.	Using the below link, fork the Saelor Platform from Git  
      ~  https://github.com/saleor/saleor-platform
@@ -55,8 +55,8 @@ gcloud config set compute/zone us-central1-c
     ~  https://github.com/Aravind1025/saleor-platform-Assignment1Task2.git
 
 
-  <h2>How to Assign the Container Ports</h2>
-</div>
+  ## How to Assign the Container Ports
+
 
 1. Examine the functionalities of the Saleor platform and explore the ports in the docker-compose.yml file.</div>
 2. Assign the Saleor Store-front port to 3009 and the saleor dashboard ports to 9003.</div>
