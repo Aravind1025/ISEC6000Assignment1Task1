@@ -20,7 +20,7 @@
 <div>6.	Configure the default Kubernetes version and node pool with 3 nodes.</div>
 
 <div>
-  <h2>How to INSTALL AND CONFIGURE KUBERNETES</h2>
+  <h2>How to Install and Configure Kubernetes</h2>
 </div>
 
 <div>1.	The Cluster isec6000-cluster-1 is created as shown in Fig 1.2.1</div>
@@ -51,7 +51,7 @@
       <div>-https://github.com/Aravind1025/saleor-platform-Assignment1Task2.git</div>
 
 <div>
-  <h2>How to ASSIGN THE CONTAINER PORTS</h2>
+  <h2>How to Assign the Container Ports</h2>
 </div>
 
 <div>1. Examine the functionalities of the Saleor platform and explore the ports in the docker-compose.yml file.</div>
@@ -74,7 +74,7 @@
       <div>Saleor Dashboard accessible at https://localhost:9003</div>
 
 <div>
-  <h2>TRIVY</h2>
+  <h2>Trivy</h2>
 </div>
 
 <div>Trivy is an open-source vulnerability scanner. It is reliable, fast and extremely easy to use. Trivy has different scanners that look for different security issues, and different targets where it can find those issues.</div>
@@ -88,7 +88,7 @@
 <div>3. sudo mv trivy /usr/local/bin/</div>
 
 <div>
-  <h2>To Scan the Vulnerability of TRIVY</h2>
+  <h2>To Scan the Vulnerability of Trivy</h2>
 </div>
 Syntax: trivy image {image Name} 
 
