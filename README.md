@@ -29,7 +29,8 @@
 4.	Set the project with the project ID and configure the zone using the following commands:
 ```docker
 gcloud config set project isec6000-397505
-
+```
+```docker
 gcloud config set compute/zone us-central1-c
 ```
 
@@ -41,9 +42,7 @@ gcloud config set compute/zone us-central1-c
 2.	Set the Repository as public and select the checkbox with add a README file option.
 3. A repository is created as shown in Fig 1.2.3
 4.	The Repository can be accessed through the below link. 
-```docker
  https://github.com/Aravind1025/ISEC6000Assignment1Task1
-```
 
 
   <h2>How to Fork Saelor Platform in Git Repository</h2>
