@@ -6,7 +6,7 @@
   <h2>Saleor</h2>
 </div>
 
-<p margin-left: 50px>Saleor is an open-source e-commerce platform built using Django, GraphQL, and React. It is intended to give developers with a flexible and customizable foundation for building online storefronts and e-commerce apps. Saleor is available on GitHub, where you can contribute to its development.</p>
+<p>Saleor is an open-source e-commerce platform built using Django, GraphQL, and React. It is intended to give developers a flexible and customizable foundation for building online storefronts and e-commerce apps. Saleor is available on GitHub, where you can contribute to its development.</p>
 
 <div>
   <h2>How to Create a Kubernetes Cluster on GKE</h2>
@@ -38,7 +38,7 @@
 <div>2.	Set the Repository as public and select the checkbox with add a README file option.</div>
 <div>3. A repository is created as shown in Fig 1.2.3</div>
 <div>4.	The Repository can be accessed through the below link. </div>
-      <span style="margin-left: 20px;">-https://github.com/Aravind1025/ISEC6000Assignment1Task1</span>
+      >-https://github.com/Aravind1025/ISEC6000Assignment1Task1
 
 <div>
   <h2>How to Fork Saelor Platform in Git Repository</h2>
