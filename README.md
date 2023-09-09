@@ -11,7 +11,7 @@
   <h2>How to Create a Kubernetes Cluster on GKE</h2>
 </div>
 
-<br><div>1.	Login into your Google Cloud Account.</div>
+<div>1.	Login into your Google Cloud Account.</div>
 <div>2.	Create a new Project and name it as “ISEC6000”.</div>
 <div>3.	In the ISEC6000 project, Click Kubernetes Engine  Cluster  Enable the Api  Create.</div>
 <div>4.	Select and configure under the Standard cluster mode.</div>
