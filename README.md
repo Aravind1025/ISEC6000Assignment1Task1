@@ -4,13 +4,13 @@
 
 
   <h2>Saleor</h2>
-</div>
+
 
 <p>Saleor is an open-source e-commerce platform built using Django, GraphQL, and React. It is intended to give developers a flexible and customizable foundation for building online storefronts and e-commerce apps. Saleor is available on GitHub, where you can contribute to its development.</p>
 
 
   <h2>How to Create a Kubernetes Cluster on GKE</h2>
-</div>
+
 
 1.	Login into your Google Cloud Account.
 2.	Create a new Project and name it as “ISEC6000”.
