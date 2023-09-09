@@ -30,6 +30,10 @@
 ```docker
 gcloud config set project isec6000-397505
 ```
+```python
+  	  Australia-southeast2-b
+  ```
+
 <div>~  gcloud config set compute/zone us-central1-c</div>
 
 <div>
