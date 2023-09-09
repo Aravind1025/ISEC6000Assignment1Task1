@@ -92,7 +92,11 @@
 </div>
 Syntax: trivy image {image Name} 
 
+<div>
+  <h2>Saleor Architecture</h2>
+</div>
 
+![saleor](https://github.com/Aravind1025/ISEC6000Assignment1Task1/assets/143582985/202eb24b-51cf-484a-8e05-23c9fe96eb06)
 
 
 
