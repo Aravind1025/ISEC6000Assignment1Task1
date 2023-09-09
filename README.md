@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="color:red">Building and Securing a Microservices E-commerce Application</h1>
+  <h1>Building and Securing a Microservices E-commerce Application</h1>
 </div>
 
 <div>
