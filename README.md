@@ -23,16 +23,13 @@
   <h2>How to Install and Configure Kubernetes</h2>
 </div>
 
-<div>1.	The Cluster isec6000-cluster-1 is created as shown in Fig 1.2.1</div>
-<div>2.	Connect the Kubernetes Cluster to the local environment.</div>
-<div>3.	Select Activate Cloud shell to open the shell terminal.</div>
-<div>4.	Set the project with the project ID and configure the zone using the following commands:</div>
+1.	The Cluster isec6000-cluster-1 is created as shown in Fig 1.2.1
+2.	Connect the Kubernetes Cluster to the local environment.
+3.	Select Activate Cloud shell to open the shell terminal.
+4.	Set the project with the project ID and configure the zone using the following commands:
 ```docker
 gcloud config set project isec6000-397505
 ```
-```python
-  	  Australia-southeast2-b
-  ```
 
 <div>~  gcloud config set compute/zone us-central1-c</div>
 
