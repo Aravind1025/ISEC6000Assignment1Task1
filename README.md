@@ -49,10 +49,10 @@ gcloud config set compute/zone us-central1-c
 
 
 1.	Using the below link, fork the Saelor Platform from Git  
-     ~  https://github.com/saleor/saleor-platform
+       https://github.com/saleor/saleor-platform
 2. Rename it as “saleor-platform-Assignment1Task2”.
 3. New Repo can be accessed through the link
-    ~  https://github.com/Aravind1025/saleor-platform-Assignment1Task2.git
+     https://github.com/Aravind1025/saleor-platform-Assignment1Task2.git
 
 
   ## How to Assign the Container Ports
