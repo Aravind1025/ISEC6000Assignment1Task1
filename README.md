@@ -70,8 +70,7 @@
 <div>9. To execute the Application</div>
       <div>~  docker compose up</div>
 <div>10. Once the containers are created, we can access the Saelor Store-front UI in our local environment.</div>
-      <div>~  React-StoreFront accessible at </div>
-        <div>https://localhost:3009</div>
+      <div>~  React-StoreFront accessible at https://localhost:3009</div>
       <div>~  Saleor Dashboard accessible at https://localhost:9003</div>
 
 <div>
