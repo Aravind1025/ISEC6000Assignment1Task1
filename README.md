@@ -11,7 +11,7 @@ Saleor is an open-source e-commerce platform built using Django, GraphQL, and Re
   <h2>How to create a Kubernetes Cluster on GKE</h2>
 </div>
 
-<div>&emsp1.	Login into your Google Cloud Account.</div>
+<p>&emsp1.	Login into your Google Cloud Account.</p>
 <div>&emsp2.	Create a new Project and name it as “ISEC6000”.</div>
 <div>&emsp3.	In the ISEC6000 project, Click Kubernetes Engine  Cluster  Enable the Api  Create.</div>
 <div>  4.	Select and configure under the Standard cluster mode.</div>
