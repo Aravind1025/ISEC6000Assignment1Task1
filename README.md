@@ -37,7 +37,7 @@
 <div>2.	Set the Repository as public and select the checkbox with add a README file option.</div>
 <div>3. A repository is created as shown in Fig 1.2.3</div>
 <div>4.	The Repository can be accessed through the below link. </div>
-      -https://github.com/Aravind1025/ISEC6000Assignment1Task1
+      <div>-https://github.com/Aravind1025/ISEC6000Assignment1Task1</div>
 
 <div>
   <h2>How to Fork Saelor Platform in Git Repository</h2>
