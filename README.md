@@ -27,4 +27,4 @@ Saleor is an open-source e-commerce platform built using Django, GraphQL, and Re
 <div>3.	Select Activate cloud shell to open the shell terminal.</div>
 <div>4.	Set the project with the project ID and configure the zone using the following commands.</div>
 gcloud config set project isec6000-397505
-gcloud config set compute/zone us-central1-c
+<div>gcloud config set compute/zone us-central1-c</div>
