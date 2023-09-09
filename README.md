@@ -47,6 +47,31 @@ Saleor is an open-source e-commerce platform built using Django, GraphQL, and Re
      <div>-https://github.com/saleor/saleor-platform</div>
 <div>2. Rename it as “saleor-platform-Assignment1Task2”.</div>
 <div>3. New Repo can be accessed through the link</div>
-      -https://github.com/Aravind1025/saleor-platform-Assignment1Task2.git
+      <div>-https://github.com/Aravind1025/saleor-platform-Assignment1Task2.git</div>
+
+<div>
+  <h2>How to ASSIGN THE CONTAINER PORTS</h2>
+</div>
+
+<div>1. Examine the functionalities of the Saleor platform and explore the ports in the docker-compose.yml file.</div>
+<div>2. Assign the Saleor Store-front port to 3009 and the saleor dashboard ports to 9003.</div>
+<div>3. Commit the changes in the Git Repository.</div>
+<div>4. To clone the Git Repository:</div>
+      <div>git clone https://github.com/Aravind1025/saleor-platform-Assignment1Task2.git</div>
+<div>5. To go into the Repository:</div>
+      <div>cd saleor-platform-Assignment1Task2</div>
+<div>6. To Build the Repository:</div>
+      <div>docker compose build</div>
+<div>7. To Apply Django migration:</div>
+      <div>docker compose run --rm api python3 manage.py migrate</div>
+<div>8. To create the admin user and fill the database with sample admin data</div>
+      <div>docker compose run --rm api python3 manage.py populatedb –createsuperuser</div>
+<div>9. To execute the Application</div>
+      <div>docker compose up</div>
+<div>10. Once the containers are created, we can access the Saelor Store-front UI in our local environment.</div>
+      <div>React-StoreFront accessible at https://localhost:3009</div>
+      <div>Saleor Dashboard accessible at https://localhost:9003</div>
+
+
 
 
