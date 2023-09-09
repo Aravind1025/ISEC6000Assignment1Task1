@@ -38,14 +38,14 @@
 <div>2.	Set the Repository as public and select the checkbox with add a README file option.</div>
 <div>3. A repository is created as shown in Fig 1.2.3</div>
 <div>4.	The Repository can be accessed through the below link. </div>
-      -https://github.com/Aravind1025/ISEC6000Assignment1Task1
+    ~   https://github.com/Aravind1025/ISEC6000Assignment1Task1
 
 <div>
   <h2>How to Fork Saelor Platform in Git Repository</h2>
 </div>
 
 <div>1.	Using the below link, fork the Saelor Platform from Git</div>    
-     <div>-https://github.com/saleor/saleor-platform</div>
+     <div>~  https://github.com/saleor/saleor-platform</div>
 <div>2. Rename it as “saleor-platform-Assignment1Task2”.</div>
 <div>3. New Repo can be accessed through the link</div>
       <div>-https://github.com/Aravind1025/saleor-platform-Assignment1Task2.git</div>
