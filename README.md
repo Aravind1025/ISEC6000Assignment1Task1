@@ -6,7 +6,7 @@
   <h2>Saleor</h2>
 </div>
 
-<pre>Saleor is an open-source e-commerce platform built using Django, GraphQL, and React. It is intended to give developers with a flexible and customizable foundation for building online storefronts and e-commerce apps. Saleor is available on GitHub, where you can contribute to its development.</pre>
+<p>Saleor is an open-source e-commerce platform built using Django, GraphQL, and React. It is intended to give developers with a flexible and customizable foundation for building online storefronts and e-commerce apps. Saleor is available on GitHub, where you can contribute to its development.</p>
 
 <div>
   <h2>How to Create a Kubernetes Cluster on GKE</h2>
