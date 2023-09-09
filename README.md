@@ -27,8 +27,8 @@
 <div>2.	Connect the Kubernetes Cluster to the local environment.</div>
 <div>3.	Select Activate Cloud shell to open the shell terminal.</div>
 <div>4.	Set the project with the project ID and configure the zone using the following commands:</div>
-<div align="center">-gcloud config set project isec6000-397505</div>
-<div align="center">-gcloud config set compute/zone us-central1-c</div>
+<&nbsp>-gcloud config set project isec6000-397505</&nbsp>
+<div>-gcloud config set compute/zone us-central1-c</div>
 
 <div>
   <h2>How to Create Git Repository</h2>
